@@ -2,7 +2,7 @@ title: My Portfolio
 description: A collection of my software engineering projects.
 url: https://hammad123.github.io
 baseurl: ""
-theme: jekyll-theme-feeling-responsive
+theme: jekyll-theme-feeling-cayman
 
 # Optional: Add your social media links
 social_links:
