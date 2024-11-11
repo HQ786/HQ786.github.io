@@ -1,3 +1,10 @@
 title: My Portfolio
-description: Showcase of my projects and skills.
+description: A collection of my software engineering projects.
+url: https://hammad123.github.io
+baseurl: ""
 theme: jekyll-theme-minimal
+
+# Optional: Add your social media links
+social_links:
+  github: https://github.com/hammad123
+  linkedin: https://linkedin.com/in/hammad123
